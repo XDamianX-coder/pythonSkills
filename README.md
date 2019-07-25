@@ -1,5 +1,6 @@
-# pythonSkills
-## basic structures
+# Basic Python skills 
+## basics
+* Python basic types
 * loops
 * conditional structures (if/else)
 
@@ -9,6 +10,6 @@
 ## clases
 * object-oriented design
 
-# cheminformatocs
+# Cheminformatics
 * molecule representation
 * popular cheminformatis libraries (rdkit, openbabel, openeye) 
